@@ -1,0 +1,9 @@
+C:\Users\MohammedJuned\Desktop\COMP212_Programming3\AhLTest1\bin\Debug\AhLTest1.exe.config
+C:\Users\MohammedJuned\Desktop\COMP212_Programming3\AhLTest1\obj\Debug\AhLTest1.csprojResolveAssemblyReference.cache
+C:\Users\MohammedJuned\Desktop\COMP212_Programming3\AhLTest1\obj\Debug\AhLTest1.Form1.resources
+C:\Users\MohammedJuned\Desktop\COMP212_Programming3\AhLTest1\obj\Debug\AhLTest1.Properties.Resources.resources
+C:\Users\MohammedJuned\Desktop\COMP212_Programming3\AhLTest1\obj\Debug\AhLTest1.csproj.GenerateResource.Cache
+C:\Users\MohammedJuned\Desktop\COMP212_Programming3\AhLTest1\bin\Debug\AhLTest1.exe
+C:\Users\MohammedJuned\Desktop\COMP212_Programming3\AhLTest1\bin\Debug\AhLTest1.pdb
+C:\Users\MohammedJuned\Desktop\COMP212_Programming3\AhLTest1\obj\Debug\AhLTest1.exe
+C:\Users\MohammedJuned\Desktop\COMP212_Programming3\AhLTest1\obj\Debug\AhLTest1.pdb

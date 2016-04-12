@@ -1,0 +1,8 @@
+C:\Users\MohammedJuned\Desktop\COMP212_Programming3\ctlClockLib\bin\Debug\ctlClockLib.dll
+C:\Users\MohammedJuned\Desktop\COMP212_Programming3\ctlClockLib\bin\Debug\ctlClockLib.pdb
+C:\Users\MohammedJuned\Desktop\COMP212_Programming3\ctlClockLib\obj\Debug\ctlClockLib.ctlClock.resources
+C:\Users\MohammedJuned\Desktop\COMP212_Programming3\ctlClockLib\obj\Debug\ctlClockLib.csproj.GenerateResource.Cache
+C:\Users\MohammedJuned\Desktop\COMP212_Programming3\ctlClockLib\obj\Debug\ctlClockLib.dll
+C:\Users\MohammedJuned\Desktop\COMP212_Programming3\ctlClockLib\obj\Debug\ctlClockLib.pdb
+C:\Users\MohammedJuned\Desktop\COMP212_Programming3\ctlClockLib\obj\Debug\ctlClockLib.csprojResolveAssemblyReference.cache
+C:\Users\MohammedJuned\Desktop\COMP212_Programming3\ctlClockLib\obj\Debug\ctlClockLib.ctlAlarmClock.resources

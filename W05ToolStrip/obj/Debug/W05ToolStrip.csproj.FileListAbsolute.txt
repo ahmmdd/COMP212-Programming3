@@ -1,0 +1,9 @@
+C:\Users\MohammedJuned\Desktop\COMP212_Programming3\W05ToolStrip\bin\Debug\W05ToolStrip.exe.config
+C:\Users\MohammedJuned\Desktop\COMP212_Programming3\W05ToolStrip\bin\Debug\W05ToolStrip.exe
+C:\Users\MohammedJuned\Desktop\COMP212_Programming3\W05ToolStrip\bin\Debug\W05ToolStrip.pdb
+C:\Users\MohammedJuned\Desktop\COMP212_Programming3\W05ToolStrip\obj\Debug\W05ToolStrip.csprojResolveAssemblyReference.cache
+C:\Users\MohammedJuned\Desktop\COMP212_Programming3\W05ToolStrip\obj\Debug\W05ToolStrip.Form1.resources
+C:\Users\MohammedJuned\Desktop\COMP212_Programming3\W05ToolStrip\obj\Debug\W05ToolStrip.Properties.Resources.resources
+C:\Users\MohammedJuned\Desktop\COMP212_Programming3\W05ToolStrip\obj\Debug\W05ToolStrip.csproj.GenerateResource.Cache
+C:\Users\MohammedJuned\Desktop\COMP212_Programming3\W05ToolStrip\obj\Debug\W05ToolStrip.exe
+C:\Users\MohammedJuned\Desktop\COMP212_Programming3\W05ToolStrip\obj\Debug\W05ToolStrip.pdb

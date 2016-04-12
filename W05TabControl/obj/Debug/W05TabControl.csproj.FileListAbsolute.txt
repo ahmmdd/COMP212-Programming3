@@ -1,0 +1,9 @@
+C:\Users\MohammedJuned\Desktop\COMP212_Programming3\W05TabControl\bin\Debug\W05TabControl.exe.config
+C:\Users\MohammedJuned\Desktop\COMP212_Programming3\W05TabControl\bin\Debug\W05TabControl.exe
+C:\Users\MohammedJuned\Desktop\COMP212_Programming3\W05TabControl\bin\Debug\W05TabControl.pdb
+C:\Users\MohammedJuned\Desktop\COMP212_Programming3\W05TabControl\obj\Debug\W05TabControl.csprojResolveAssemblyReference.cache
+C:\Users\MohammedJuned\Desktop\COMP212_Programming3\W05TabControl\obj\Debug\W05TabControl.Form1.resources
+C:\Users\MohammedJuned\Desktop\COMP212_Programming3\W05TabControl\obj\Debug\W05TabControl.Properties.Resources.resources
+C:\Users\MohammedJuned\Desktop\COMP212_Programming3\W05TabControl\obj\Debug\W05TabControl.csproj.GenerateResource.Cache
+C:\Users\MohammedJuned\Desktop\COMP212_Programming3\W05TabControl\obj\Debug\W05TabControl.exe
+C:\Users\MohammedJuned\Desktop\COMP212_Programming3\W05TabControl\obj\Debug\W05TabControl.pdb

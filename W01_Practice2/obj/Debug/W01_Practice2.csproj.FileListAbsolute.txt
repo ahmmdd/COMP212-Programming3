@@ -1,0 +1,5 @@
+C:\Users\MohammedJuned\Desktop\COMP212_Programming3\W01_Practice2\bin\Debug\W01_Practice2.exe.config
+C:\Users\MohammedJuned\Desktop\COMP212_Programming3\W01_Practice2\bin\Debug\W01_Practice2.exe
+C:\Users\MohammedJuned\Desktop\COMP212_Programming3\W01_Practice2\bin\Debug\W01_Practice2.pdb
+C:\Users\MohammedJuned\Desktop\COMP212_Programming3\W01_Practice2\obj\Debug\W01_Practice2.exe
+C:\Users\MohammedJuned\Desktop\COMP212_Programming3\W01_Practice2\obj\Debug\W01_Practice2.pdb

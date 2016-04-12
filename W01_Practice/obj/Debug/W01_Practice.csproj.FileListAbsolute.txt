@@ -1,0 +1,6 @@
+C:\Users\MohammedJuned\Desktop\COMP212_Programming3\W01_Practice\bin\Debug\W01_Practice.exe.config
+C:\Users\MohammedJuned\Desktop\COMP212_Programming3\W01_Practice\bin\Debug\W01_Practice.exe
+C:\Users\MohammedJuned\Desktop\COMP212_Programming3\W01_Practice\bin\Debug\W01_Practice.pdb
+C:\Users\MohammedJuned\Desktop\COMP212_Programming3\W01_Practice\obj\Debug\W01_Practice.csprojResolveAssemblyReference.cache
+C:\Users\MohammedJuned\Desktop\COMP212_Programming3\W01_Practice\obj\Debug\W01_Practice.exe
+C:\Users\MohammedJuned\Desktop\COMP212_Programming3\W01_Practice\obj\Debug\W01_Practice.pdb

@@ -1,0 +1,9 @@
+C:\Users\MohammedJuned\Desktop\COMP212_Programming3\W05_MenuStri[\bin\Debug\W05_MenuStri[.exe.config
+C:\Users\MohammedJuned\Desktop\COMP212_Programming3\W05_MenuStri[\bin\Debug\W05_MenuStri[.exe
+C:\Users\MohammedJuned\Desktop\COMP212_Programming3\W05_MenuStri[\bin\Debug\W05_MenuStri[.pdb
+C:\Users\MohammedJuned\Desktop\COMP212_Programming3\W05_MenuStri[\obj\Debug\W05_MenuStri[.csprojResolveAssemblyReference.cache
+C:\Users\MohammedJuned\Desktop\COMP212_Programming3\W05_MenuStri[\obj\Debug\W05_MenuStri_.Form1.resources
+C:\Users\MohammedJuned\Desktop\COMP212_Programming3\W05_MenuStri[\obj\Debug\W05_MenuStri_.Properties.Resources.resources
+C:\Users\MohammedJuned\Desktop\COMP212_Programming3\W05_MenuStri[\obj\Debug\W05_MenuStri[.csproj.GenerateResource.Cache
+C:\Users\MohammedJuned\Desktop\COMP212_Programming3\W05_MenuStri[\obj\Debug\W05_MenuStri[.exe
+C:\Users\MohammedJuned\Desktop\COMP212_Programming3\W05_MenuStri[\obj\Debug\W05_MenuStri[.pdb

@@ -1,0 +1,9 @@
+C:\Users\MohammedJuned\Desktop\COMP212_Programming3\Lab02Form\bin\Debug\Lab02Form.exe.config
+C:\Users\MohammedJuned\Desktop\COMP212_Programming3\Lab02Form\bin\Debug\Lab02Form.exe
+C:\Users\MohammedJuned\Desktop\COMP212_Programming3\Lab02Form\bin\Debug\Lab02Form.pdb
+C:\Users\MohammedJuned\Desktop\COMP212_Programming3\Lab02Form\obj\Debug\Lab02Form.csprojResolveAssemblyReference.cache
+C:\Users\MohammedJuned\Desktop\COMP212_Programming3\Lab02Form\obj\Debug\Lab02Form.Form1.resources
+C:\Users\MohammedJuned\Desktop\COMP212_Programming3\Lab02Form\obj\Debug\Lab02Form.Properties.Resources.resources
+C:\Users\MohammedJuned\Desktop\COMP212_Programming3\Lab02Form\obj\Debug\Lab02Form.csproj.GenerateResource.Cache
+C:\Users\MohammedJuned\Desktop\COMP212_Programming3\Lab02Form\obj\Debug\Lab02Form.exe
+C:\Users\MohammedJuned\Desktop\COMP212_Programming3\Lab02Form\obj\Debug\Lab02Form.pdb

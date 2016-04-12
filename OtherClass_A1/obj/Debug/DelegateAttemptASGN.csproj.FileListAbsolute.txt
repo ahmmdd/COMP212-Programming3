@@ -1,0 +1,12 @@
+C:\Users\User01\Documents\Visual Studio 2015\Projects\DelegateAttemptASGN\DelegateAttemptASGN\bin\Debug\DelegateAttemptASGN.exe.config
+C:\Users\User01\Documents\Visual Studio 2015\Projects\DelegateAttemptASGN\DelegateAttemptASGN\bin\Debug\DelegateAttemptASGN.exe
+C:\Users\User01\Documents\Visual Studio 2015\Projects\DelegateAttemptASGN\DelegateAttemptASGN\bin\Debug\DelegateAttemptASGN.pdb
+C:\Users\User01\Documents\Visual Studio 2015\Projects\DelegateAttemptASGN\DelegateAttemptASGN\obj\Debug\DelegateAttemptASGN.csprojResolveAssemblyReference.cache
+C:\Users\User01\Documents\Visual Studio 2015\Projects\DelegateAttemptASGN\DelegateAttemptASGN\obj\Debug\DelegateAttemptASGN.NewsletterManagerForm.resources
+C:\Users\User01\Documents\Visual Studio 2015\Projects\DelegateAttemptASGN\DelegateAttemptASGN\obj\Debug\DelegateAttemptASGN.Properties.Resources.resources
+C:\Users\User01\Documents\Visual Studio 2015\Projects\DelegateAttemptASGN\DelegateAttemptASGN\obj\Debug\DelegateAttemptASGN.PublishForm.resources
+C:\Users\User01\Documents\Visual Studio 2015\Projects\DelegateAttemptASGN\DelegateAttemptASGN\obj\Debug\DelegateAttemptASGN.SubscribeForm.resources
+C:\Users\User01\Documents\Visual Studio 2015\Projects\DelegateAttemptASGN\DelegateAttemptASGN\obj\Debug\DelegateAttemptASGN.csproj.GenerateResource.Cache
+C:\Users\User01\Documents\Visual Studio 2015\Projects\DelegateAttemptASGN\DelegateAttemptASGN\obj\Debug\DelegateAttemptASGN.exe
+C:\Users\User01\Documents\Visual Studio 2015\Projects\DelegateAttemptASGN\DelegateAttemptASGN\obj\Debug\DelegateAttemptASGN.pdb
+C:\Users\User01\Documents\Visual Studio 2015\Projects\DelegateAttemptASGN\DelegateAttemptASGN\obj\Debug\DelegateAttemptASGN.WarningForm.resources

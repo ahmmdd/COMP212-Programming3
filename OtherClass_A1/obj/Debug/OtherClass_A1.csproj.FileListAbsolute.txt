@@ -1,0 +1,12 @@
+C:\Users\MohammedJuned\Desktop\COMP212_Programming3\OtherClass_A1\bin\Debug\OtherClass_A1.exe.config
+C:\Users\MohammedJuned\Desktop\COMP212_Programming3\OtherClass_A1\bin\Debug\OtherClass_A1.exe
+C:\Users\MohammedJuned\Desktop\COMP212_Programming3\OtherClass_A1\bin\Debug\OtherClass_A1.pdb
+C:\Users\MohammedJuned\Desktop\COMP212_Programming3\OtherClass_A1\obj\Debug\OtherClass_A1.csprojResolveAssemblyReference.cache
+C:\Users\MohammedJuned\Desktop\COMP212_Programming3\OtherClass_A1\obj\Debug\DelegateAttemptASGN.NewsletterManagerForm.resources
+C:\Users\MohammedJuned\Desktop\COMP212_Programming3\OtherClass_A1\obj\Debug\OtherClass_A1.Properties.Resources.resources
+C:\Users\MohammedJuned\Desktop\COMP212_Programming3\OtherClass_A1\obj\Debug\DelegateAttemptASGN.PublishForm.resources
+C:\Users\MohammedJuned\Desktop\COMP212_Programming3\OtherClass_A1\obj\Debug\DelegateAttemptASGN.SubscribeForm.resources
+C:\Users\MohammedJuned\Desktop\COMP212_Programming3\OtherClass_A1\obj\Debug\DelegateAttemptASGN.WarningForm.resources
+C:\Users\MohammedJuned\Desktop\COMP212_Programming3\OtherClass_A1\obj\Debug\OtherClass_A1.csproj.GenerateResource.Cache
+C:\Users\MohammedJuned\Desktop\COMP212_Programming3\OtherClass_A1\obj\Debug\OtherClass_A1.exe
+C:\Users\MohammedJuned\Desktop\COMP212_Programming3\OtherClass_A1\obj\Debug\OtherClass_A1.pdb

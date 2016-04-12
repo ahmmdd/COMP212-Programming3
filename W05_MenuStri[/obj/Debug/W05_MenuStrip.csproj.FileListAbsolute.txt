@@ -1,0 +1,3 @@
+C:\Users\MohammedJuned\Desktop\COMP212_Programming3\W05_MenuStri[\bin\Debug\W05_MenuStri[.exe.config
+C:\Users\MohammedJuned\Desktop\COMP212_Programming3\W05_MenuStri[\obj\Debug\W05_MenuStri[.exe
+C:\Users\MohammedJuned\Desktop\COMP212_Programming3\W05_MenuStri[\obj\Debug\W05_MenuStri[.pdb

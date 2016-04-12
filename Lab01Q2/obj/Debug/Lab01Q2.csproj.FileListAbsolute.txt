@@ -1,0 +1,6 @@
+C:\Users\MohammedJuned\Desktop\COMP212_Programming3\Lab01Q2\bin\Debug\Lab01Q2.exe.config
+C:\Users\MohammedJuned\Desktop\COMP212_Programming3\Lab01Q2\bin\Debug\Lab01Q2.exe
+C:\Users\MohammedJuned\Desktop\COMP212_Programming3\Lab01Q2\bin\Debug\Lab01Q2.pdb
+C:\Users\MohammedJuned\Desktop\COMP212_Programming3\Lab01Q2\obj\Debug\Lab01Q2.csprojResolveAssemblyReference.cache
+C:\Users\MohammedJuned\Desktop\COMP212_Programming3\Lab01Q2\obj\Debug\Lab01Q2.exe
+C:\Users\MohammedJuned\Desktop\COMP212_Programming3\Lab01Q2\obj\Debug\Lab01Q2.pdb
