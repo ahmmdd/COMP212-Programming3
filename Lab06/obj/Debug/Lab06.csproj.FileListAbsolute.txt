@@ -1,0 +1,9 @@
+C:\Users\MohammedJuned\Desktop\COMP212_Programming3\Lab06\bin\Debug\Lab06.exe.config
+C:\Users\MohammedJuned\Desktop\COMP212_Programming3\Lab06\obj\Debug\Lab06.csprojResolveAssemblyReference.cache
+C:\Users\MohammedJuned\Desktop\COMP212_Programming3\Lab06\obj\Debug\Lab06.MasterDetail.resources
+C:\Users\MohammedJuned\Desktop\COMP212_Programming3\Lab06\obj\Debug\Lab06.Properties.Resources.resources
+C:\Users\MohammedJuned\Desktop\COMP212_Programming3\Lab06\obj\Debug\Lab06.csproj.GenerateResource.Cache
+C:\Users\MohammedJuned\Desktop\COMP212_Programming3\Lab06\bin\Debug\Lab06.exe
+C:\Users\MohammedJuned\Desktop\COMP212_Programming3\Lab06\bin\Debug\Lab06.pdb
+C:\Users\MohammedJuned\Desktop\COMP212_Programming3\Lab06\obj\Debug\Lab06.exe
+C:\Users\MohammedJuned\Desktop\COMP212_Programming3\Lab06\obj\Debug\Lab06.pdb
